@@ -1,4 +1,5 @@
 ---
+lang: de_DE
 <!-- Die folgenden Felder sind optionale Metadaten. Sie können einfach entfernt werden. -->
 status: "{vorgeschlagen | abgelehnt | akzeptiert | überholt | … | ersetzt durch ADR-0123"
 datum: {YYYY-MM-DD Datum, an dem die Entscheidung zuletzt verändert wurde}
